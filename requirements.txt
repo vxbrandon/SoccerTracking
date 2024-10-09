@@ -1,0 +1,8 @@
+hydra-core
+numpy
+torch
+pandas
+SoccerNet
+rich
+ultralytics
+SportsLabKit

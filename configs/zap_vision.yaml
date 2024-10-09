@@ -1,0 +1,8 @@
+defaults:
+  - models/object_detection: yolov8
+  - models/track: bytetrack
+  - models/calib: tvcalib
+  - _self_
+
+
+pipeline: tracking+action_spotting
