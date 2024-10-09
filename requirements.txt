@@ -5,4 +5,4 @@ pandas
 SoccerNet
 rich
 ultralytics
-SportsLabKit
+#SportsLabKit
